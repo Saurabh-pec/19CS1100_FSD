@@ -7,6 +7,13 @@ Spring MVC CRUD Application with MySQL and Hibernate. This project gives an idea
 
 ### jpa-maven
 JPA is used to persist data between Java object and relational database. JPA acts as a bridge between object-oriented domain models and relational database systems.
+ - Create a persistence.xml to be used for unit testing in src/test/resources/META-INF:
+ - Create an entity class named as StudentEntity.java undercom.java.jpa.student package that contains attributes s_id, s_name, s_age.
+ - Now, map the entity class and other databases confiuguration in Persistence.xml file. 
+ - Create a persistence class named as PersistStudent.java under com.javat.jpa.persist package to persist the entity object with data.
+ - Create a persistence class named as UpdateStudent.java under com.java.jpa.update package to persist the entity object with data.
+ - Create an entity class named as StudentEntity.java under com.java.jpa.student package that contains attributes s_id, s_name and s_age.
+ - Now, map the entity class and other databases confiuguration in Persistence.xml file.
 ### Prerequisites
  You are required to have few tools before you start with using the source code.
 
