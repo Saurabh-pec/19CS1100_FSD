@@ -39,10 +39,11 @@ Install JDK, Maven and Git as first step, before you get the the code base setup
 You will require a Tomcat 9 version and some web server to run this web application. Run with any web server and view the output on a browser.
 
 ### Demo:
-![https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/Database-setup.jpg] (Database-setup)
-![https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/JPA_DatabaseTable.jpg] (JPA_DatabaseTable)
-![https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/MVC_CURD(view%20list).jpg](MVC_CRUD-employees_list)
-![https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/AddEmployee.jpg](AddEmployee)
-![https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/mvc-web-form.jpg](mvc-web-form-RailwayReservation)
-![https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/reservationConfirmation.jpg](reservationConfirmation)
+
+![Database-setup](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/Database-setup.jpg)<br>
+![JPA_DatabaseTable](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/JPA_DatabaseTable.jpg)<br>
+![MVC_CRUD-employees_list](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/MVC_CURD(view%20list).jpg)<br>
+![AddEmployee](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/AddEmployee.jpg)<br>
+![mvc-web-form-RailwayReservation](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/mvc-web-form.jpg)<br>
+![reservationConfirmation](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/reservationConfirmation.jpg)
 
