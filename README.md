@@ -47,3 +47,8 @@ You will require a Tomcat 9 version and some web server to run this web applicat
 ![mvc-web-form-RailwayReservation](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/mvc-web-form.jpg)<br>
 ![reservationConfirmation](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/main/reservationConfirmation.jpg)
 
+#### Grails Framework
+![Grails-HomePage](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/master/grails.jpg)
+![TeamList](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/master/Team.jpg)
+![PlayerList](https://raw.githubusercontent.com/Saurabh-pec/19CS1100_FSD/master/PlayerListjpg.jpg)
+
