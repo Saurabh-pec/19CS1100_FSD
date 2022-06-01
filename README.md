@@ -1,6 +1,6 @@
 # 19CS1100_FSD
 
-This repo is related to our FSD (Full Stack Developer) course-subject of 6th sem. In this repo, I have done  projects  related to java-maven, JPA, Spring-MVC framework etc.
+This repo is related to our FSD (Full Stack Developer) course-subject of 6th sem. In this repo, I have done  projects  related to java-maven, JPA, Spring-MVC framework, Grails framework  etc.
 
 ### Spring MVC CRUD Application
 Spring MVC CRUD Application with MySQL and Hibernate. This project gives an idea about how to create Spring MVC Full Application having Model, Controller and View binded together to perform CRUD operations with Database connection using Hibernate Classes.
